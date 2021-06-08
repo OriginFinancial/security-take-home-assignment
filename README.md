@@ -44,4 +44,4 @@ Be aware that Origin will focus on the following evaluation criteria:
 
 ## Delivery Instructions
 
-The report internal structure is not important. Still, we ask you to send us the report in a PDF file format.
+The report's internal structure is not important. Still, we ask you to send us the report in a PDF file format.
